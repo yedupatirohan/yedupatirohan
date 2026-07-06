@@ -9,8 +9,8 @@ I recently graduated with a B.Tech in Computer Science Engineering from KL Unive
 ## 💻 Tech Stack
 
 **Languages**
-- Python
 - Java
+- Python
 - C
 
 **Frameworks & Libraries**
