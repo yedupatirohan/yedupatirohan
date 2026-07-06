@@ -1,4 +1,4 @@
-# Hi, I'm Rohan 👋
+# Hi, I'm Yedupati Rohan 👋
 
 **AI Engineer | Full Stack Developer **
 
