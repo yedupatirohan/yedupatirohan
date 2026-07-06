@@ -33,7 +33,6 @@ I recently graduated with a B.Tech in Computer Science Engineering from KL Unive
 - MySQL
 
 **Tools**
-- Git
 - GitHub
 - VS Code
 
